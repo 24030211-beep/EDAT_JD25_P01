@@ -1,3 +1,5 @@
 # EDAT_JD25_P01
 
-## Versio Inicial EDAT_Practica 01
+## Version Inicial EDAT_Practica 01
+
+### Programa de numeros aleatorios 
