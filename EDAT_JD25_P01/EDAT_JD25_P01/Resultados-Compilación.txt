@@ -1,0 +1,6 @@
+﻿Compilación iniciada a las 06:51 p. m....
+1>------ Operación Compilar iniciada: Proyecto: EDAT_JD25_P01, configuración: Debug Any CPU ------
+1>Omitiendo analizadores para acelerar la compilación. Puede ejecutar los comandos "Build" o "Rebuild" para ejecutar los analizadores.
+1>EDAT_JD25_P01 -> C:\Estructra de datos\EDAT\EDAT_JD25_P01\EDAT_JD25_P01\bin\Debug\net8.0-windows\EDAT_JD25_P01.dll
+========== Compilación: 1 correcto, 0 erróneo, 0 actualizado, 0 omitido ==========
+========== Compilar completado a las 06:52 p. m. y tardó 00.928 segundos ==========
